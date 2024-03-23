@@ -1,2 +1,4 @@
 # Integrated-E-Commerce-Analytics-Image-Processing-NLP-and-Recommendation-Engine
 Our project offers an integrated solution for e-commerce analytics, combining Natural Language Processing (NLP), Image Processing, and advanced machine learning techniques. 
+Through this synergy, we provide comprehensive insights into e-commerce data, enabling businesses to visualize trends and patterns effectively. Additionally, our system features a dynamic recommendation engine that utilizes user input to suggest related products, enhancing the shopping experience. With a focus on integration and actionable insights, our solution empowers businesses to make informed decisions and drive success in the competitive e-commerce market.
+# tools used: Python, Streamlit, Pandas, Matplotlib, seaborn, Word Cloud, Sklearn
